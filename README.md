@@ -2,8 +2,7 @@
 
 Very simple rouglike game i wrote in CPP using LibTCOD library for my college Algorithms Practice.
 
-I copied it from my repo in github classroom
+Technologies used: 
 
-Software used: VS 2019
-
-(It's not finished)
+- VS 2019
+- [Libtcod](https://github.com/libtcod/libtcod) 
